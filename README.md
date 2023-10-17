@@ -4,7 +4,7 @@ This script extracts location data using an API for a given set of cities and co
 
 ## Requirements
 
-- `requests`, `openpyxl`, and `pandas` libraries
+- `requests`, `openpyxl`, `json` and `concurrent.futures` libraries
 
 - Install the required dependencies using the following command:
 
